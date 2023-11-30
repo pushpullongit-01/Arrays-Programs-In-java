@@ -42,4 +42,6 @@ public class ArrayS {
 			System.out.print(i+" ");
 		}
 	}
+	
+	System.out.println("1st change");
 }
